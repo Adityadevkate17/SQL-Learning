@@ -24,3 +24,4 @@ Advance Queries
 7) List the cities where customers who spent over $30 are loc
 8) Find the customer who spent the most on orders
 9) Calculate the stock remaining after fulfilling all orders
+10) Show the top 5 customers who placed the highest number of orders.
